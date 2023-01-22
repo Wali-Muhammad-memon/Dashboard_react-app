@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;600;700&display=swap');
+
+body{
+    background-color: #333 !important;
+}
+
+.widget_warpper{
+    height: 182px;
+    margin-bottom: 19px;
+}
+.widget_title {
+    padding: 20px;
+    color: #fff;
+    font-size: 24px;
+}
+
+.widget_content {
+    color: #fff;
+    padding: 20px;
+}
+
+text {
+    fill: #fff;
+}
